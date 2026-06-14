@@ -8,7 +8,7 @@ public class GhostFloatAnimation : MonoBehaviour
     public Sprite ghostSprite2;
 
     public float spriteChangeSpeed = 0.7f;
-    public float floatHeight = 0.003f;
+    public float floatHeight = 0.0003f;
     public float floatSpeed = 0.35f;
 
     private Vector3 startPosition;
