@@ -29,5 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Library.unity
     guid: 9610b55938055401fae99b7d55f77c38
+  - enabled: 1
+    path: Assets/Scenes/LibraryMaze.unity
+    guid: c817f5eb3f9adca4b8e54fe65a49bfba
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
